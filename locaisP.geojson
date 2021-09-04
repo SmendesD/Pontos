@@ -23,26 +23,26 @@
          }
       },
       {
-         "type":"Feature",
-         "properties":{
-            "Nome":"João Mendes",
-            "Data":"27/03/2021",
-            "Tempo":"11:30",
-            "Local":"Rossio, Lisboa",
-            "Coordenadas":"-9.238417050173897, 38.75962285659221",
-            "Equipamento":"Telemóvel",
-            "Categorias":"Sons de humanos > Voz, Ambiente e Plano de fundo > Ruído",
-            "Keywords":"",
-            "Audio":" <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -9.139673270392452,
-               38.71403085592836
-            ]
-         }
+         "type": "Feature",
+      "properties": {
+        "Nome": "João Mendes",
+        "Data": "27/03/2021",
+        "Tempo": "11:30",
+        "Local": "Rossio, Lisboa",
+        "Coordenadas": "-9.238417050173897, 38.75962285659221",
+        "Equipamento": "Telemóvel",
+        "Categorias": [{"Sons de humanos": "Voz", "Ambiente e Plano de fundo":"Ruído"}],
+        "Keywords": null,
+        "Audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>"
       },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.139673270392452,
+          38.71403085592836
+        ]
+      }
+    },
       {
          "type":"Feature",
          "properties":{
