@@ -35,7 +35,8 @@
         "Categorias": "Sons de humanos > Voz, Ambiente e Plano de fundo > Ruído",
         "Keywords": "",
         "Audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>",
-        "SimboloCat": "Sons de humanos||Ambiente e Plano de fundo"
+        "SimboloCat": "Sons de humanos||Ambiente e Plano de fundo",
+        "Som": "https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z"
       },
       "geometry": {
         "type": "Point",
