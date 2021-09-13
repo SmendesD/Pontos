@@ -54,7 +54,7 @@
          "properties":{
             "Nome": "Alda Ferreira",
             "Data": "20/02/2021",
-            "Hora": "(+/-)14.30",
+            "Hora": "14.30",
             "Local": "Rua do Pombal; S. Romão do Coronado - Trofa",
             "Coordenadas": "-8.55269400, 41.28217700",
             "Equipamento": "telemóvel",
@@ -76,7 +76,7 @@
          "properties":{
             "Nome":"Alda Ferreira",
             "Data":"20/02/2021",
-            "Hora":"(+/-)14:05",
+            "Hora":"14:05",
             "Local":"Rua do Pombal; S. Romão do Coronado - Trofa",
             "Coordenadas":"",
             "Equipamento":"telemóvel",
