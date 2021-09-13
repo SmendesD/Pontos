@@ -12,7 +12,7 @@
             "Equipamento":"",
             "Categorias":"Sons de objetos",
             "Keywords":"",
-            "Audio":" <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'></audio>",
+            "Audio":"<audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'></audio>",
             "SimboloCat":"Sons de objetos",
             "NData":20190222
          },
@@ -35,7 +35,7 @@
         "Equipamento": "Telemóvel",
         "Categorias": "Sons de humanos > Voz, Ambiente e Plano de fundo > Ruído",
         "Keywords": "",
-        "Audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>",
+        "Audio": "<audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>",
         "SimboloCat": "Sons de humanos||Ambiente e Plano de fundo",
         "Som": "https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z",
          "SomP":"<source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'>",
@@ -52,15 +52,15 @@
       {
          "type":"Feature",
          "properties":{
-            "Nome ":"Alda Ferreira",
-            "Data ":"20/02/2021",
-            "Hora ":"(+/-)14.30",
-            "Local":"Rua do Pombal; S. Romão do Coronado - Trofa",
-            "Coordenadas ":"-8.55269400, 41.28217700",
-            "Equipamento ":"telemóvel",
-            "Categorias ":"Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
-            "Keywords":"",
-            "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1fUa6LkOcHCDXAVleQXGyUDP5oPQCew4k' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
+            "Nome": "Alda Ferreira",
+            "Data": "20/02/2021",
+            "Hora": "(+/-)14.30",
+            "Local": "Rua do Pombal; S. Romão do Coronado - Trofa",
+            "Coordenadas": "-8.55269400, 41.28217700",
+            "Equipamento": "telemóvel",
+            "Categorias": "Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
+            "Keywords": "",
+            "Audio": "<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1fUa6LkOcHCDXAVleQXGyUDP5oPQCew4k' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
             "NData":20210220
          },
          "geometry":{
@@ -74,13 +74,13 @@
       {
          "type":"Feature",
          "properties":{
-            "Nome ":"Alda Ferreira",
-            "Data ":"20/02/2021",
-            "Hora ":"(+/-)14:05",
+            "Nome":"Alda Ferreira",
+            "Data":"20/02/2021",
+            "Hora":"(+/-)14:05",
             "Local":"Rua do Pombal; S. Romão do Coronado - Trofa",
-            "Coordenadas ":"",
-            "Equipamento ":"telemóvel",
-            "Categorias ":"Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
+            "Coordenadas":"",
+            "Equipamento":"telemóvel",
+            "Categorias":"Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
             "Keywords":"",
             "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
             "NData":20210220
