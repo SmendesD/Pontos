@@ -13,7 +13,8 @@
             "Categorias":"Sons de objetos",
             "Keywords":"",
             "Audio":" <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'></audio>",
-             "SimboloCat":"Sons de objetos"
+             "SimboloCat":"Sons de objetos",
+            "N":1
          },
          "geometry":{
             "type":"Point",
@@ -37,7 +38,8 @@
         "Audio": " <audio controls='controls' autoplay> <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>",
         "SimboloCat": "Sons de humanos||Ambiente e Plano de fundo",
         "Som": "https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z",
-         "SomP":"<source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'>"
+         "SomP":"<source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'>",
+         "N":3
       },
       "geometry": {
         "type": "Point",
@@ -58,7 +60,8 @@
             "Equipamento ":"telemóvel",
             "Categorias ":"Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
             "Keywords":"",
-            "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1fUa6LkOcHCDXAVleQXGyUDP5oPQCew4k' controls='controls'><br />Your browser does not support the audio element.<br /></audio>"
+            "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1fUa6LkOcHCDXAVleQXGyUDP5oPQCew4k' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
+            "N":2
          },
          "geometry":{
             "type":"Point",
@@ -79,7 +82,8 @@
             "Equipamento ":"telemóvel",
             "Categorias ":"Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
             "Keywords":"",
-            "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z' controls='controls'><br />Your browser does not support the audio element.<br /></audio>"
+            "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
+            "N":2
          },
          "geometry":{
             "type":"Point",
