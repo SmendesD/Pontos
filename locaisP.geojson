@@ -62,6 +62,7 @@
             "Categorias": "Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
             "Keywords": "",
             "Audio": "<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1fUa6LkOcHCDXAVleQXGyUDP5oPQCew4k' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
+            "SimboloCat":"Sons de animais",
             "NData":20210220
          },
          "geometry":{
@@ -84,6 +85,7 @@
             "Categorias":"Sons de animais > Animais domésticos, Sons de animais > Animais selvagens, Sons naturais > Vento, Sons naturais > Água",
             "Keywords":"",
             "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
+             "SimboloCat":"Sons naturais",
             "NData":20210220
          },
          "geometry":{
