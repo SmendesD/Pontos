@@ -14,7 +14,7 @@
             "Keywords":"",
             "Audio":"<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'></audio>",
             "Audio2":" <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'>",
-            "SimboloCat":"Sons de objetos",
+            "SimboloCat":["Sons de objetos"],
             "NData":20190222
          },
          "geometry":{
@@ -37,7 +37,7 @@
         "Categorias": "Sons de humanos > Voz, Ambiente e Plano de fundo > Ruído",
         "Keywords": "",
         "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'></audio>",
-        "SimboloCat": ["Sons de humanos","Ambiente e Plano de fundo"],
+        "SimboloCat": ["Sons de humanos", "Ambiente e Plano de fundo"],
         "Som": "https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z",
          "SomP":"<source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'>",
          "NData":20210327
