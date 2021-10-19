@@ -15,7 +15,15 @@
             "Audio":"<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'></audio>",
             "Audio2":" <source src='https://docs.google.com/uc?export=download&id=1IaEBJA1wJhTW_ZMMu298CIbaYyij6dyV'>",
             "SimboloCat":["Sons de objetos"],
-            "NData":20190222
+            "NData":20190222,
+            "Sons de humanos":"0",
+            "Sons de animais":"0",
+            "Música":"0",
+            "Sons de objetos":"1",
+            "Sons domésticos":"0",
+            "Sons naturais":"0",
+            "Sons de origem desconhecida":"0",
+            "Ambiente e Plano de fundo":"0"
          },
          "geometry":{
             "type":"Point",
@@ -40,7 +48,15 @@
         "SimboloCat": ["Sons de humanos", "Ambiente e Plano de fundo"],
         "Som": "https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z",
          "SomP":"<source src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z'>",
-         "NData":20210327
+         "NData":20210327,
+          "Sons de humanos":"1",
+          "Sons de animais":"0",
+          "Música":"0",
+          "Sons de objetos":"0",
+          "Sons domésticos":"0",
+          "Sons naturais":"0",
+          "Sons de origem desconhecida":"0",
+          "Ambiente e Plano de fundo":"1"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +79,15 @@
             "Keywords": "",
             "Audio": "<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1fUa6LkOcHCDXAVleQXGyUDP5oPQCew4k' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
             "SimboloCat":"Sons de animais",
-            "NData":20210220
+            "NData":20210220,
+            "Sons de humanos":"0",
+            "Sons de animais":"1",
+            "Música":"0",
+            "Sons de objetos":"0",
+            "Sons domésticos":"0",
+            "Sons naturais":"1",
+            "Sons de origem desconhecida":"0",
+            "Ambiente e Plano de fundo":"0"
          },
          "geometry":{
             "type":"Point",
@@ -86,7 +110,15 @@
             "Keywords":"",
             "Audio":"<audio width='300' height='32' src='https://docs.google.com/uc?export=download&id=1_Gp5X_b_FZG2q8wZo99WS8LkaRBANI3z' controls='controls'><br />Your browser does not support the audio element.<br /></audio>",
              "SimboloCat":"Sons naturais",
-            "NData":20210220
+            "NData":20210220,
+            "Sons de humanos":"0",
+            "Sons de animais":"1",
+            "Música":"0",
+            "Sons de objetos":"0",
+            "Sons domésticos":"0",
+            "Sons naturais":"1",
+            "Sons de origem desconhecida":"0",
+            "Ambiente e Plano de fundo":"0"
          },
          "geometry":{
             "type":"Point",
