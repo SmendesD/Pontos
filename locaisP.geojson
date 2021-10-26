@@ -5,14 +5,14 @@
          "type":"Feature",
          "properties":{
    
-    "Nome ": "Sara Mendes",
-    "Data ": "2021/09/27",
+    "Nome": "Sara Mendes",
+    "Data": "2021/09/27",
     "Tempo": "11:12",
     "Local": "Pólo1, Rua Larga, Coimbra",
-    "Coordenadas ": "40.2078385796779, -8.42427731536915",
+    "Coordenadas": "40.2078385796779, -8.42427731536915",
     "Equipamento": "Telemóvel Sony Xperia",
     "Categorias": "Sons de humanos > Voz, Sons de origem desconhecida, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Urbano, Ambiente e Plano de fundo > Ruído",
-    "Comentário ": "",
+    "Comentário": "",
     "Audio": "https://docs.google.com/uc?export=download&id=1o7fyge3ecIsba3K4cw2JmyQCN7a5Tckk",
     "Sons de humanos": "1",
     "Sons de animais": "0",
