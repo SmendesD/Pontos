@@ -1,6 +1,259 @@
  {
    "type":"FeatureCollection",
    "features":[
+      
+          {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/04/04",
+    "Tempo": "10h",
+    "Local": "Calçada Martim de Freitas, Coimbra, entrada Jardim Botânico da Universidade de Coimbra",
+    "Coordenadas": "40.206997644667155, -8.421161260809193",
+    "Equipamento": "gravador Philips DVT2000",
+    "Categorias": "Sons de animais > Animais selvagens, Sons de objetos > Veículos, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1VJc9mz84PIYZxS_RrISwd99GMM_Exf6f'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.421161260809193,
+         40.206997644667155
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/04/04",
+    "Tempo": "10:28",
+    "Local": "Mata Nacional do Choupal, Coimbra",
+    "Coordenadas": "40.22291140873311, -8.445669183698712",
+    "Equipamento": "gravador Philips DVT2000",
+    "Categorias": "Sons de humanos > Voz, Sons de humanos > Ações, Sons de animais > Animais selvagens, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Rural",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1E90Q7I-ljik9_MSR320bS96y3hBr2VEP'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.445669183698712,
+         40.22291140873311
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/04/04",
+    "Tempo": "10:39",
+    "Local": "Mata Nacional do Choupal, Coimbra",
+    "Coordenadas": "40.22224963147419, -8.445625345776028",
+    "Equipamento": "gravador Philips DVT2000",
+    "Categorias": "Sons de humanos > Voz, Sons de humanos > Ações, Sons de animais > Animais selvagens, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Rural",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1uykFi5Z_JHuu4DIJgO6ozgaJgPnTRV-P'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.445625345776028,
+         40.22224963147419
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/04/04",
+    "Tempo": "10:45",
+    "Local": "Mata Nacional do Choupal, Coimbra",
+    "Coordenadas": "40.22194439184546, -8.445606012890591",
+    "Equipamento": "gravador Philips DVT2000",
+    "Categorias": "Sons de humanos > Voz, Sons de humanos > Ações, Sons de animais > Animais selvagens, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Rural",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1KBSdgDI9DKXDYc_pzKqM6kIB1embmK5w'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.445606012890591,
+         40.22194439184546
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/05/02",
+    "Tempo": "16:57",
+    "Local": "Ponte Pedonal Pedro e Inês, Coimbra",
+    "Coordenadas": "40.201163, -8.427004",
+    "Equipamento": "Telemóvel Sony Xperia",
+    "Categorias": "Sons de humanos > Voz, Música > Ao vivo, Sons naturais > Vento, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ruído",
+    "Comentário": "A passar a ponte pedonal Pedro e Inês",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1u0tMIBKA6nMR00WoUdV4S1Q_wyZeVyR2'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "1",
+    "Sons de objetos": "0",
+    "Sons naturais": "1",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.427004,
+         40.201163
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/05/02",
+    "Tempo": "17h",
+    "Local": "Parque do Choupalinho, na margem esquerda do Rio Mondego",
+    "Coordenadas": "40.198463274848166, -8.429120181654284",
+    "Equipamento": "Telemóvel Sony Xperia",
+    "Categorias": "Sons de humanos > Voz, Sons de animais > Animais selvagens, Sons de objetos > Veículos, Ambiente e Plano de fundo > Ambiente acústico > Exterior",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1iiMESlBWVs0U7pXUhz9nFKQVzdOpekCd'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.429120181654284,
+         40.198463274848166
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/09/09",
+    "Tempo": "13h",
+    "Local": "Praça 8 de Maio, Coimbra",
+    "Coordenadas": "40.211285207270386, -8.429111639075677",
+    "Equipamento": "Telemóvel Sony Xperia",
+    "Categorias": "Sons de humanos > Voz, Sons de humanos > Ações, Sons de origem desconhecida",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1lvZZ26AfBMI75QJInYLCh5k4TpIHYgdm'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "1",
+    "Ambiente e Plano de fundo": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.429111639075677,
+         40.211285207270386
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/09/09",
+    "Tempo": "15:48",
+    "Local": "Porta de Barbacã, Coimbra",
+    "Coordenadas": "40.20892998077926, -8.428949853360471",
+    "Equipamento": "Telemóvel Sony Xperia",
+    "Categorias": "Sons de humanos > Voz, Sons de humanos > Ações, Música > Reproduzida, Sons de objetos > Fontes diversas, Ambiente e Plano de fundo > Reprodução de som ( Ex: televisão, rádio,  altifalante…)",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1M4mLQuB86R45OjDu2GlIwsZNDx7I9scB'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "1",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.428949853360471,
+         40.20892998077926
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Sara Mendes",
+    "Data": "2021/09/20",
+    "Tempo": "13:35",
+    "Local": "Pólo1, Rua Larga, Coimbra",
+    "Coordenadas": "40.20787467381628, -8.424108635416307",
+    "Equipamento": "Telemóvel Sony Xperia",
+    "Categorias": "Sons de humanos > Voz, Sons de humanos > Ações, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=18wkpKtJZpA_pGvp2GQ_T2H6N_QQhdFwm'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.424108635416307,
+         40.20787467381628
+        ]
+      }
+    },
       {
          "type":"Feature",
          "properties":{
@@ -14,7 +267,6 @@
     "Categorias": "Sons de humanos > Voz, Sons de origem desconhecida, Ambiente e Plano de fundo > Ambiente acústico > Exterior, Ambiente e Plano de fundo > Ambiente acústico > Urbano, Ambiente e Plano de fundo > Ruído",
     "Comentário": "",
     "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1o7fyge3ecIsba3K4cw2JmyQCN7a5Tckk'></audio>",
-     "Audio2": " <source src='https://docs.google.com/uc?export=download&id=1o7fyge3ecIsba3K4cw2JmyQCN7a5Tckk'>",
     "Sons de humanos": "1",
     "Sons de animais": "0",
     "Música": "0",
