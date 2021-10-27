@@ -5,19 +5,215 @@
           {
          "type": "Feature",
       "properties": {
-       "Nome": "joao mendes",
-    "Data": "2021/04/11",
-    "Tempo": "13h20",
-    "Local": "Praia das Avencas, Oeiras",
-    "Coordenadas": "38.68811512778903, -9.360103727068694",
-    "Equipamento": "telemovel",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações,<br> Sons naturais > Água,<br> Ambiente e Plano de fundo > Ambiente acústico > Exterior",
+         "Nome": "C c ",
+    "Data": "2021/04/04",
+    "Tempo": "10:42",
+    "Local": "Choupal de Coimbra",
+    "Coordenadas": "",
+    "Equipamento": "Telm Xiaomi redmi",
+    "Categorias": "Sons de humanos > Ações,<br> Ambiente e Plano de fundo > Ambiente acústico > Rural",
     "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1NmT7SrMxttZY7A0H2ioBbdlPw_ac0JaE'></audio>",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=12F2jJiFifiRncqnsiE5JSUPnYcGiI93-'></audio>",
     "Sons de humanos": "1",
     "Sons de animais": "0",
     "Música": "0",
     "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.444569541742895,
+           40.22232106350763
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "C c ",
+    "Data": "2021/04/04",
+    "Tempo": "10:43",
+    "Local": "Choupal de Coimbra",
+    "Coordenadas": "",
+    "Equipamento": "TM Xiaomi redmi",
+    "Categorias": "Sons de humanos > Ações,<br> Ambiente e Plano de fundo > Ambiente acústico > Rural",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1d-9HrUFQZ3lJHlubWIqVfJScT6C3qFt3'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -8.444531486251973,
+           40.22246663994238
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "C c ",
+    "Data": "2021/04/04",
+    "Tempo": "",
+    "Local": "Choupal de Coimbra",
+    "Coordenadas": "",
+    "Equipamento": "TM Xiaomi redmi",
+    "Categorias": "Sons de humanos > Ações,<br> Ambiente e Plano de fundo > Ambiente acústico > Rural",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1gTuJ5PA6FbuPVrJ6Nfwlk0-4wp86oM2k'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -8.44389349645727,
+            40.22226213291038
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/04/07",
+    "Tempo": "9h00",
+    "Local": "Av Fontes Pereira de Melo",
+    "Coordenadas": "38.73117661525575, -9.14652696809231",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1nQPorozPzrFZYL7rDymMep8pxjp_EVR-'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -9.14654230405663,
+            38.73121007083771
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/04/08",
+    "Tempo": "9h00",
+    "Local": "Av Fontes Pereira de Melo, Lisboa",
+    "Coordenadas": "38.73117661525575, -9.14652696809231",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de animais > Animais selvagens,<br> Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=16ImEc2YY4nxv_D2lvg7uB_HH0lpvlVmI'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "1",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       -9.146571085950816,
+              38.73116932396548
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/04/09",
+    "Tempo": "9:00",
+    "Local": "Av Fontes Pereira de Melo, Lisboa",
+    "Coordenadas": "38.73117661525575, -9.14652696809231",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Ações,<br> Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano,<br> Ambiente e Plano de fundo > Ruído",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1mlCxTNpujrVnhNzl7LPXB64BIe-GKX6U'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -9.146551126640022,
+           38.73118640691212
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/04/13",
+    "Tempo": "9h00",
+    "Local": "Av Fontes Pereira de Melo, Lisboa",
+    "Coordenadas": "38.73117661525575, -9.14652696809231",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Voz,<br> Ambiente e Plano de fundo > Ruído",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1xTGEjkiZfU70GZ-4wtkRERgyaYncQPKN'></audio>",
+    "Sons de humanos": "1",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "0",
+    "Sons naturais": "0",
+    "Sons de origem desconhecida": "0",
+    "Ambiente e Plano de fundo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.146540105086626,
+           38.73116530532428
+        ]
+      }
+    },
+      {
+         "type": "Feature",
+      "properties": {
+    "Nome": "Joao Mendes",
+    "Data": "2021/04/14",
+    "Tempo": "9h00",
+    "Local": "Av Fontes Pereira de Melo, Lisboa",
+    "Coordenadas": "38.73117661525575, -9.14652696809231",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de objetos > Veículos,<br> Sons naturais > Água,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano,<br> Ambiente e Plano de fundo > Ruído",
+    "Comentário": "",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1PVketkgPnDr0M-IthYZykjBjNnBmSzJR'></audio>",
+    "Sons de humanos": "0",
+    "Sons de animais": "0",
+    "Música": "0",
+    "Sons de objetos": "1",
     "Sons naturais": "1",
     "Sons de origem desconhecida": "0",
     "Ambiente e Plano de fundo": "1"
@@ -25,8 +221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.360103727068694,
-           38.68811512778903
+         -9.14652696809231,
+            38.73117661525575
         ]
       }
     },
@@ -34,214 +230,18 @@
          "type": "Feature",
       "properties": {
     "Nome": "joao mendes",
-    "Data": "2021/04/17",
-    "Tempo": "13h30",
-    "Local": "Passeio de Dom Luis I, Cascais",
-    "Coordenadas": "38.69653726267983, -9.420160961832247",
-    "Equipamento": "telemovel",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de animais > Animais selvagens,<br> Música > Reproduzida,<br> Sons de objetos > Veículos,<br> Sons naturais > Água,<br> Ambiente e Plano de fundo > Reprodução de som ( Ex: televisão, rádio,  altifalante…)",
-    "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=109l1PYr2kZWVvpeWzar_6-rS8Cs7URqT'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "1",
-    "Música": "1",
-    "Sons de objetos": "1",
-    "Sons naturais": "1",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.420160961832247,
-           38.69653726267983
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "CC",
-    "Data": "2021/04/23",
-    "Tempo": "08:45",
-    "Local": "Rua 1 de maio . Pedrulha . Coimbra",
-    "Coordenadas": "",
-    "Equipamento": "Telemovel",
-    "Categorias": "Sons de humanos > Ações,<br> Sons de animais > Animais selvagens,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
-    "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1lWzSqEs1-uMoLKckvitwYlxtHQHzAM06'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "1",
-    "Música": "0",
-    "Sons de objetos": "0",
-    "Sons naturais": "0",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.446201300699324,
-           40.24077243003457
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "Cc",
-    "Data": "2021/05/14",
-    "Tempo": "8:50",
-    "Local": "Rua Manuel madeira",
-    "Coordenadas": "",
-    "Equipamento": "Telemovel",
-    "Categorias": "Sons de animais > Animais selvagens,<br> Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
-    "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=19E-_TXwtbUBQJVRS2CrsgHTAli0AouGr'></audio>",
-    "Sons de humanos": "0",
-    "Sons de animais": "1",
-    "Música": "0",
-    "Sons de objetos": "1",
-    "Sons naturais": "0",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.442559490675146,
-           40.242603911522494
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "Cc",
-    "Data": "2021/05/14",
-    "Tempo": "9:20",
-    "Local": "Rua do vale do forno . Pedrulha . Coimbra",
-    "Coordenadas": "",
-    "Equipamento": "Telemóvel",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de animais > Animais domésticos,<br> Ambiente e Plano de fundo > Ambiente acústico > Rural",
-    "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1SnAmBQ7UYl-rJ5BgjRQ49kZ25-_Hcxih'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "1",
-    "Música": "0",
-    "Sons de objetos": "0",
-    "Sons naturais": "0",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         -8.447931829637136,
-            40.24133190559429
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "Cc",
-    "Data": "2021/06/05",
-    "Tempo": "11:45",
-    "Local": "Rua 1 maio . Pedrulha",
-    "Coordenadas": "",
-    "Equipamento": "Telemovel",
-    "Categorias": "Sons de humanos > Ações,<br> Sons de animais > Animais selvagens,<br> Sons naturais > Vento,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
-    "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1jmpmmVXQi_KBR5XDCABvVjjxTogy4SLw'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "1",
-    "Música": "0",
-    "Sons de objetos": "0",
-    "Sons naturais": "1",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-        -8.445945842022734,
-             40.24094474033491
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "Joao Mendes",
-    "Data": "2021/06/24",
-    "Tempo": "9:00",
-    "Local": "Av República, Lisboa",
-    "Coordenadas": "38.73796771814994, -9.14601855261477",
-    "Equipamento": "Telemóvel",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de animais > Animais selvagens,<br> Sons de objetos > Veículos,<br> Sons naturais > Vento,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
-    "Comentário": "Dia de greve de metro, caminhada a pé desde Estação de Entrecampos até Picoas, em Lisboa",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1sXeMOqFGI12AgPufBkF-7sK7tnqQw2V0'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "1",
-    "Música": "0",
-    "Sons de objetos": "1",
-    "Sons naturais": "1",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.14601855261477,
-           38.73796771814994
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "Joao Mendes",
-    "Data": "2021/05/04",
-    "Tempo": "9:00",
-    "Local": "Metro entrecampos",
-    "Coordenadas": "38.7465657900169, -9.148021585338855",
-    "Equipamento": "telemóvel",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano,<br> Ambiente e Plano de fundo > Ruído",
-    "Comentário": "Entrada na estação de metro",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=17S9BUGVPqOvfoU8AjNKKXNOE294iy6u4'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "0",
-    "Música": "0",
-    "Sons de objetos": "0",
-    "Sons naturais": "0",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         -9.148020115932157,
-           38.746562399489044 
-        ]
-      }
-    },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "João Mendes",
-    "Data": "2021/06/01",
-    "Tempo": "8:50",
+    "Data": "2021/04/09",
+    "Tempo": "8h50",
     "Local": "Metro Entrecampos, Lisboa",
-    "Coordenadas": "38.7465657900169, -9.148021585338855",
-    "Equipamento": "telemóvel",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações,<br> Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano,<br> Ambiente e Plano de fundo > Ruído",
-    "Comentário": "Viagem de metro entre Entrecampos e Picoas, Lisboa",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1zDzmcmUPjnyoYBbyMksnCaPowelSAWMV'></audio>",
+    "Coordenadas": "38.7445275183203, -9.148412708257279",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações,<br> Ambiente e Plano de fundo > Ambiente acústico > Interior",
+    "Comentário": "Pessoas a andar, som de um café (estabelecimento)",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1hHEWmay4SrppWqgaq4PJNiVfJXPywpRC'></audio>",
     "Sons de humanos": "1",
     "Sons de animais": "0",
     "Música": "0",
-    "Sons de objetos": "1",
+    "Sons de objetos": "0",
     "Sons naturais": "0",
     "Sons de origem desconhecida": "0",
     "Ambiente e Plano de fundo": "1"
@@ -249,36 +249,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.148021585338855,
-           38.7465657900169
+          -9.148412708257279,
+           38.7445275183203
         ]
       }
     },
       {
          "type": "Feature",
       "properties": {
-    "Nome": "João Mendes",
-    "Data": "2021/05/03",
-    "Tempo": "9:00",
-    "Local": "Picoas, Lisboa",
-    "Coordenadas": "38.73115577160296, -9.14661538460276",
-    "Equipamento": "telemóvel",
-    "Categorias": "Sons de objetos > Veículos,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
+    "Nome": "joao mendes",
+    "Data": "2021/04/09",
+    "Tempo": "18h40",
+    "Local": "Saldanha, Lisboa",
+    "Coordenadas": "38.73292874728546, -9.145174148873638",
+    "Equipamento": "telemovel",
+    "Categorias": "Sons de objetos > Veículos,<br> Sons naturais > Vento,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
     "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=10YRF7Mhh0h-IcVh-seufQ4CeL-Y6409R'></audio>",
+    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=1MXhaWpiHkNTPwHNC74jt3nUJufu3YpDe'></audio>",
     "Sons de humanos": "0",
     "Sons de animais": "0",
     "Música": "0",
     "Sons de objetos": "1",
-    "Sons naturais": "0",
+    "Sons naturais": "1",
     "Sons de origem desconhecida": "0",
     "Ambiente e Plano de fundo": "1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-         -9.146630110724475,
-         38.731133410662615
+         -9.145174148873638,
+           38.73292874728546
         ]
       }
     }
