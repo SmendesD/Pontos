@@ -2104,34 +2104,7 @@
         ]
       }
     },
-      {
-         "type": "Feature",
-      "properties": {
-    "Nome": "Sara Mendes",
-    "Data": "2021/09/20",
-    "Tempo": "13:35",
-    "Local": "Pólo1, Rua Larga, Coimbra",
-    "Coordenadas": "40.20787467381628, -8.424108635416307",
-    "Equipamento": "Telemóvel Sony Xperia",
-    "Categorias": "Sons de humanos > Voz,<br> Sons de humanos > Ações,<br> Ambiente e Plano de fundo > Ambiente acústico > Exterior,<br> Ambiente e Plano de fundo > Ambiente acústico > Urbano",
-    "Comentário": "",
-    "Audio": "<audio controls='controls' > <source src='https://docs.google.com/uc?export=download&id=18wkpKtJZpA_pGvp2GQ_T2H6N_QQhdFwm'></audio>",
-    "Sons de humanos": "1",
-    "Sons de animais": "0",
-    "Música": "0",
-    "Sons de objetos": "0",
-    "Sons naturais": "0",
-    "Sons de origem desconhecida": "0",
-    "Ambiente e Plano de fundo": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.424108635416307,
-         40.20787467381628
-        ]
-      }
-    },
+      
       {
          "type":"Feature",
          "properties":{
